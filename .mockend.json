@@ -17,9 +17,16 @@
     },
     "tag": {
       "string": [
-        "one",
-        "two",
-        "three"
+        "trending",
+        "popular",
+        "discover",
+        "latest"
+      ],
+      "years":[
+        "2019",
+        "2020",
+        "2021",
+        "2022"
       ]
     },
     "isDraft": {
